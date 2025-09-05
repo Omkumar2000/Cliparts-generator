@@ -1,0 +1,2 @@
+# Cliparts-generator
+generators cliparts
